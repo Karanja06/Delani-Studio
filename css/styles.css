@@ -1,0 +1,49 @@
+
+
+@import url(bootstrap.css);
+
+
+.container{
+    min-width:100%; 
+}
+
+.h1 {
+    color: blueviolet;
+    font-style: italic;
+}
+
+.h2 {
+    position: centre;
+    color: crimson;
+}
+
+.welcome {
+    background-image: url("../img/h_img.jpg");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.About {
+    background-image: url("../img/s_image.jpg");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Services {
+    background-image: url("../img/c_image.jpg");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
