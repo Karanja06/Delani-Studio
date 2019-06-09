@@ -27,7 +27,7 @@
 }
 
 .About {
-    background-image: url("../img/s_image.jpg");
+    background-image: none;
     height: 500px;
     width: 100%;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@
 }
 
 .Services {
-    background-image: url("../img/c_image.jpg");
+    background-image: url("../img/s_image.jpg");
     height: 500px;
     width: 100%;
     background-repeat: no-repeat;
