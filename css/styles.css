@@ -3,13 +3,14 @@
 @import url(bootstrap.css);
 
 
-.container{
+.container {
     min-width:100%; 
 }
 
 .h1 {
-    color: blueviolet;
+    color: none;
     font-style: italic;
+    align-self: center;
 }
 
 .h2 {
@@ -17,13 +18,14 @@
     color: crimson;
 }
 
-.welcome {
+.Welcome {
     background-image: url("../img/h_img.jpg");
     height: 500px;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    text-align: center;
 }
 
 .About {
@@ -33,6 +35,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    text-align: center;
 }
 
 .Services {
@@ -42,6 +45,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    text-align: center;
 }
 
 .Contacts {
