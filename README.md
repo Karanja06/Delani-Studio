@@ -7,9 +7,6 @@
 * git clone url "https://karanja06.github.io/delani-studio/."
 * cd delani-studio
 * Open index.html in your browser.
-
-## BDD
-{Upon opening of the page, the user is prompted to input values of the three sides of a triangle. The application then determines if the triangle is Equilateral, Scalene or Isosceles.}
 ## Known Bugs
 { There are no known bugs in the project }
 ## Technologies Used
