@@ -65,6 +65,7 @@
 
 .Purpose {
     text-align: center;
+    
 }
 
 .Portfolio {
@@ -80,12 +81,4 @@
     left: 450px;
 }
 
-
-
-
-/* THe form Conter-wrapper */
-
-#form_wrapper{
-  border: 1px solid red;
-  margin: 5px;
-}
+.
