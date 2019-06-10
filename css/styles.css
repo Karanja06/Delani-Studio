@@ -20,7 +20,7 @@
 
 .Welcome {
     background-image: url("../img/h_img.jpg");
-    height: 500px;
+    height: 350px;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,9 +29,11 @@
     color: white;
 }
 
+
+
 .About {
     background-image: none;
-    height: 500px;
+    height: 300px;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,7 +43,7 @@
 
 .Services {
     background-image: url("../img/s_image.jpg");
-    height: 500px;
+    height: 350px;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -52,7 +54,7 @@
 
 .Contacts {
     background-image: url("../img/c_image.jpg");
-    height: 500px;
+    height: 400px;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,8 +75,17 @@
     text-align: center;
 }
 
+.Social-Media-Icons {
+    position: relative;
+    left: 450px;
+}
 
 
 
 
+/* THe form Conter-wrapper */
 
+#form_wrapper{
+  border: 1px solid red;
+  margin: 5px;
+}

@@ -86,24 +86,30 @@
                     </div>
                 </div>
 
-                <div class="Contacts">
-                    <p>CONTACT US</p>
-                    <div class="row">
-                            <div class="col-6">
-                                    <input type="text" name="Name...">
-                            </div>
+            <div class="form_wrapper">
+                    <form action="phpfunctions.php" method="POST">
+                            <div class="Contacts" id="form_wrapper">
+                                    <p>CONTACT US</p>
+                                    <div class="row">
+                                            <div class="col-6">
+                                                    <input type="text" name="" placeholder="Name...">
+                                            </div>
+                
+                                            <div class="col-6">
+                                                    <input type="text" name="" placeholder="Email..."><br>
+                                            </div>  
+                                    </div>
 
-                            <div class="col-6">
-                                    <input type="text" name="Email...">
-                            </div>
+                                    <div class="col-12">
+                                            <textarea value="" id="message" cols="50" rows="10" placeholder="Your message Here..."></textarea><br>
+                                            <button type="submit">submit</button>
+                                    </div>
 
-                            <div class="col-12">
-                                    <input type="text" name="Your messae here...">
-                            </div>
-                    </div>
-                </div>
+                                </div>
+                           </form>
+            </div>
 
-                <div class="Social Media Icons">
+                <div class="Social-Media-Icons">
                     <div class="row">
                         <div class="col-1.33">
                             <img src="img/twitter.png">
