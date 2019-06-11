@@ -4,7 +4,8 @@
 
 
 .container {
-    min-width:100%; 
+    width:100%;
+     
 }
 
 .h1 {
@@ -73,11 +74,14 @@
 }
 
 .Conclusion {
+    padding-top: 5%;
     text-align: center;
 }
 
-.Social-Media-Icons {
-    position: relative;
-    left: 450px;
+.Social-Media-Icons .size{
+    display: inline-flex;
+    padding-left: 35%;
+    padding-top: 4%;
 }
+
 
